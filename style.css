@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    text-align: center;
+    line-height: 300%
+  }
+  p1 {
+    color: white;
+    font-family: verdana;
+    font-size: 250%;
+  }
+  p {
+    color: white;
+    font-family: courier;
+    font-size: 160%;
+  }
+pre {
+    color: white;
+    font-family: courier;
+    font-size: 160%;
+  }
